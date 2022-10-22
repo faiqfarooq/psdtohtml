@@ -1,0 +1,55 @@
+.DetailsButton {
+    display: flex;
+    width: 83px;
+    height: 30px;
+    background: #F7A007;
+    border-radius: 16px;
+}
+.buttontext{
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+color: #FFFFFF;
+}
+.card-img-top{
+ 
+height: 401.38px;
+}
+.theline{
+    border-bottom: 5px solid #F7A007;
+    margin-top: 5px;
+    width: 150px;
+    border-radius: 16px;
+}
+.Alintheheader{
+    margin-left: 110px;
+}
+.Alintheheader1{
+    margin-left: 110px;
+}
+.theline1{
+    border-bottom: 5px solid #F7A007;
+    margin-top: 5px;
+    width: 298px;
+    border-radius: 16px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.erro{
+    font-family: 'Exo', sans-serif;
+    
+}
+
+.removeline{
+    text-decoration: none;
+}
+.Blackcolor{
+    color: black;
+    background-color: black;
+}
+.centerimg{
+    margin-left: 668px;
+}
